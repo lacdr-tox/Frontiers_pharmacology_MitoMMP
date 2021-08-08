@@ -1,5 +1,5 @@
 # Frontiers_Pharmacology_MitoMMP
-[![DOI](https://zenodo.org/badge/389432679.svg)](https://zenodo.org/badge/latestdoi/389432679)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5171300.svg)](https://doi.org/10.5281/zenodo.5171300)
 
 This repo is to simulate the models of mitochondrial membrane potential presented in a submitted work to *Frontiers in Pharmacology*. 
 
